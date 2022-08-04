@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bigoose0410
 - 👀 I’m interested in join github.   
-- 🌱 I’m currently learning C++ and html,css  
+- 🌱 I’m currently learning js and html,css  
 - 💞️ I’m looking to collaborate on learning with me .  
 - 📫 How to reach me ??? U can find FB :https://www.facebook.com/profile.php?id=100008421457331 or ZALO :0931748057
 
